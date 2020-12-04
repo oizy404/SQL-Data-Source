@@ -44,10 +44,25 @@ Some of The Most Important SQL Commands
   insert_into.sql
 ```
 * `SQL CREATE TABLE` creates a new table
+```
+  create_table.sql
+```
 * `SQL ALTER TABLE` modifies a table
+```
+  alter_table.sql
+```
 * `SQL DROP TABLE` deletes a table
+```
+  drop_table.sql
+```
 * `SQL CREATE DATABASE` creates a new database
+```
+  create_database.sql
+```
 * `SQL ALTER DATABASE` modifies a database
+```
+  alter_database.sql
+```
 ### Advanced SQL
 * `SQL UNION` combine the results of two queries together while removing duplicates.
 ```
