@@ -40,6 +40,9 @@ Some of The Most Important SQL Commands
   delete.sql
 ```
 * `SQL INSERT INTO` inserts new data into a database
+```
+  insert_into.sql
+```
 * `SQL CREATE TABLE` creates a new table
 * `SQL ALTER TABLE` modifies a table
 * `SQL DROP TABLE` deletes a table
