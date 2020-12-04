@@ -36,6 +36,9 @@ Some of The Most Important SQL Commands
   update.sql
 ```
 * `SQL DELETE` deletes data from a database
+```
+  delete.sql
+```
 * `SQL INSERT INTO` inserts new data into a database
 * `SQL CREATE TABLE` creates a new table
 * `SQL ALTER TABLE` modifies a table
