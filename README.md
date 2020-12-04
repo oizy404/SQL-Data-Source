@@ -29,11 +29,11 @@ Use the [`hr.sql`](https://github.com/oizy404/SQL-Data-Source/blob/main/hr.sql) 
 Some of The Most Important SQL Commands
 * `SQL SELECT` extracts data from a database
 ```
-  select.sql
+  [select.sql](https://github.com/oizy404/SQL-Data-Source/blob/main/select.sql)
 ```
 * `SQL UPDATE` updates data in a database
 ```
-  update.sql
+  [update.sql](https://github.com/oizy404/SQL-Data-Source/blob/main/update.sql)
 ```
 * `SQL DELETE` deletes data from a database
 * `SQL INSERT INTO` inserts new data into a database
