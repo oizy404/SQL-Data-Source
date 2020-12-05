@@ -69,7 +69,19 @@ Some of The Most Important SQL Commands
   union_all.sql
 ```
 * `SQL Subquery` SQL statement that has another SQL query embedded in the WHERE or the HAVING clause.
+```
+  subquery.sql
+```
 * `SQL CASE` provide if-then-else type of logic to SQL.
+```
+  case.sql
+```
 * `SQL CONCATENATE` combines multiple character strings together.
+```
+  contcat.sql
+```
 * `SQL CONVERT` converts data from one data type to another.
+```
+  convert.sql
+```
 
