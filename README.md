@@ -68,16 +68,6 @@ Some of The Most Important SQL Commands
 ```
   union_all.sql
 ```
-* `SQL Inline View`
-* `SQL INTERSECT`
-* `SQL MINUS`
-* `SQL LIMIT`
-* `SQL TOP`
 * `SQL Subquery` SQL statement that has another SQL query embedded in the WHERE or the HAVING clause.
-* `SQL EXISTS`
 * `SQL CASE` provide if-then-else type of logic to SQL.
-* `SQL DECODE`
-* `SQL AUTO INCREMENT` create a numerical primary key value for each additional row of data.
-* `SQL IDENTITY`
-* `SQL SEQUENCE and NEXTVAL`
 
