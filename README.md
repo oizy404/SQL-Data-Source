@@ -71,4 +71,5 @@ Some of The Most Important SQL Commands
 * `SQL Subquery` SQL statement that has another SQL query embedded in the WHERE or the HAVING clause.
 * `SQL CASE` provide if-then-else type of logic to SQL.
 * `SQL CONCATENATE` combines multiple character strings together.
+* `SQL CONVERT` converts data from one data type to another.
 
