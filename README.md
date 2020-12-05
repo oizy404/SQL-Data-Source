@@ -73,7 +73,7 @@ Some of The Most Important SQL Commands
 * `SQL MINUS`
 * `SQL LIMIT`
 * `SQL TOP`
-* `SQL Subquery`
+* `SQL Subquery` SQL statement that has another SQL query embedded in the WHERE or the HAVING clause.
 * `SQL EXISTS`
 * `SQL CASE`
 * `SQL DECODE`
