@@ -77,7 +77,7 @@ Some of The Most Important SQL Commands
 * `SQL EXISTS`
 * `SQL CASE` provide if-then-else type of logic to SQL.
 * `SQL DECODE`
-* `SQL AUTO INCREMENT`
+* `SQL AUTO INCREMENT` create a numerical primary key value for each additional row of data.
 * `SQL IDENTITY`
 * `SQL SEQUENCE and NEXTVAL`
 
