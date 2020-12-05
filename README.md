@@ -59,10 +59,6 @@ Some of The Most Important SQL Commands
 ```
   create_database.sql
 ```
-* `SQL ALTER DATABASE` modifies a database
-```
-  alter_database.sql
-```
 ### Advanced SQL
 * `SQL UNION` combine the results of two queries together while removing duplicates.
 ```
