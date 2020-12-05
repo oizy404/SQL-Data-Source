@@ -75,7 +75,7 @@ Some of The Most Important SQL Commands
 * `SQL TOP`
 * `SQL Subquery` SQL statement that has another SQL query embedded in the WHERE or the HAVING clause.
 * `SQL EXISTS`
-* `SQL CASE`
+* `SQL CASE` provide if-then-else type of logic to SQL.
 * `SQL DECODE`
 * `SQL AUTO INCREMENT`
 * `SQL IDENTITY`
