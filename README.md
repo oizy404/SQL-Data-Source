@@ -46,6 +46,7 @@ Some of The Most Important SQL Commands
   update.sql
 ```
 Table `jobs`
+
 ![image](https://user-images.githubusercontent.com/71779024/101283532-f02ece00-3815-11eb-8a11-9876c6a13035.png)
 Result:
 * Update single column
