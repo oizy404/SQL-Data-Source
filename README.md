@@ -36,14 +36,16 @@ Some of The Most Important SQL Commands
 
   ![image](https://user-images.githubusercontent.com/71779024/101282923-b3ada300-3812-11eb-9d79-ef813711d69d.png)
 *  Retrieve multiple columns
+
   ![image](https://user-images.githubusercontent.com/71779024/101282906-9aa4f200-3812-11eb-8135-6f7c768abde2.png)
 * Retrieve all columns
+
   ![image](https://user-images.githubusercontent.com/71779024/101282938-c922cd00-3812-11eb-91e9-fd7109f43a05.png)
-### `SQL UPDATE` updates data in a database
+### `SQL UPDATE` - updates data in a database
 ```
   update.sql
 ```
-####Table `jobs`
+#### Table `jobs`
 
 ![image](https://user-images.githubusercontent.com/71779024/101283532-f02ece00-3815-11eb-8a11-9876c6a13035.png)
 #### Result:
@@ -53,11 +55,27 @@ Some of The Most Important SQL Commands
 * Update multiple columns
 
 ![image](https://user-images.githubusercontent.com/71779024/101283917-646a7100-3818-11eb-8bf7-8c6c60d84ecc.png)
-* `SQL DELETE` deletes data from a database
+### `SQL DELETE FROM` - remove records from a table
 ```
   delete.sql
-  Result:
 ```
+* Using a simple condition
+#### Table `regions`
+
+![image](https://user-images.githubusercontent.com/71779024/101284596-d09aa400-381b-11eb-954b-2875c8396f7e.png)
+#### Result:
+
+![image](https://user-images.githubusercontent.com/71779024/101284616-e9a35500-381b-11eb-8fcb-776e7d3ea878.png)
+* Using the results from a subquery
+#### Table `employees`
+
+![image](https://user-images.githubusercontent.com/71779024/101284839-10ae5680-381d-11eb-985d-f07bf876db36.png)
+#### Table `dependents`
+
+![image](https://user-images.githubusercontent.com/71779024/101284851-21f76300-381d-11eb-8679-748b2dc18898.png)
+#### Result:
+
+![image](https://user-images.githubusercontent.com/71779024/101285054-30924a00-381e-11eb-81d5-603eef4bdc48.png)
 * `SQL INSERT INTO` inserts new data into a database
 ```
   insert_into.sql
