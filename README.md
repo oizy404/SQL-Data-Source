@@ -75,22 +75,31 @@ Some of The Most Important SQL Commands
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/101285479-51f43580-3820-11eb-8e9f-a1b21a292795.png)
-* `SQL CREATE TABLE` creates a new table
-```
-  create_table.sql
-  Result:
-```
-* `SQL ALTER TABLE` modifies a table
+### `SQL ALTER TABLE` - modifies a table
 ```
   alter_table.sql
-  Result:
 ```
-* `SQL DROP TABLE` deletes a table
+#### Table `dependents`
+
+![image](https://user-images.githubusercontent.com/71779024/101285778-faef6000-3821-11eb-832a-9b63b1f9ea7a.png)
+#### Result:
+* ALTER TABLE - ADD COLUMN
+
+![image](https://user-images.githubusercontent.com/71779024/101285839-5cafca00-3822-11eb-8405-01a30f735348.png)
+* ALTER TABLE - DROP COLUMN
+
+![image](https://user-images.githubusercontent.com/71779024/101285992-245cbb80-3823-11eb-8e12-67d8fc02ce27.png)
+### `SQL DROP TABLE` deletes a table
 ```
   drop_table.sql
   Result:
 ```
-* `SQL CREATE DATABASE` creates a new database
+### `SQL CREATE TABLE` creates a new table
+```
+  create_table.sql
+  Result:
+```
+### `SQL CREATE DATABASE` creates a new database
 ```
   create_database.sql
   Result:
