@@ -32,6 +32,7 @@ Some of The Most Important SQL Commands
   select.sql
 ```
 Result:
+
   * Retrieve one column
   ![image](https://user-images.githubusercontent.com/71779024/101282923-b3ada300-3812-11eb-9d79-ef813711d69d.png)
   *  Retrieve multiple columns
