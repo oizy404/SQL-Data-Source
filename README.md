@@ -44,8 +44,16 @@ Some of The Most Important SQL Commands
 * `SQL UPDATE` updates data in a database
 ```
   update.sql
-  Result:
 ```
+Table `jobs`
+![image](https://user-images.githubusercontent.com/71779024/101283532-f02ece00-3815-11eb-8a11-9876c6a13035.png)
+Result:
+* Update single column
+
+![image](https://user-images.githubusercontent.com/71779024/101283857-1b1a2180-3818-11eb-9c57-f1939d27bbc0.png)
+* Update multiple columns
+
+![image](https://user-images.githubusercontent.com/71779024/101283917-646a7100-3818-11eb-8bf7-8c6c60d84ecc.png)
 * `SQL DELETE` deletes data from a database
 ```
   delete.sql
