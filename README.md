@@ -31,6 +31,9 @@ Some of The Most Important SQL Commands
 ```
   select.sql
 ```
+#### Table `departments`
+
+![image](https://user-images.githubusercontent.com/71779024/101282938-c922cd00-3812-11eb-91e9-fd7109f43a05.png)
 #### Result:
 * Retrieve one column
 
