@@ -27,19 +27,16 @@ OR
 Use the [`hr.sql`](https://github.com/oizy404/SQL-Data-Source/blob/main/hr.sql) as sample database and import directly.
 ### Basic SQL Commands
 Some of The Most Important SQL Commands
-### `SQL SELECT` extracts data from a database
+### `SQL SELECT` - extracts data from a database
 ```
   select.sql
 ```
 #### Result:
 * Retrieve one column
-
   ![image](https://user-images.githubusercontent.com/71779024/101282923-b3ada300-3812-11eb-9d79-ef813711d69d.png)
 *  Retrieve multiple columns
-
   ![image](https://user-images.githubusercontent.com/71779024/101282906-9aa4f200-3812-11eb-8135-6f7c768abde2.png)
 * Retrieve all columns
-
   ![image](https://user-images.githubusercontent.com/71779024/101282938-c922cd00-3812-11eb-91e9-fd7109f43a05.png)
 ### `SQL UPDATE` updates data in a database
 ```
