@@ -30,34 +30,42 @@ Some of The Most Important SQL Commands
 * `SQL SELECT` extracts data from a database
 ```
   select.sql
+  Result:
 ```
 * `SQL UPDATE` updates data in a database
 ```
   update.sql
+  Result:
 ```
 * `SQL DELETE` deletes data from a database
 ```
   delete.sql
+  Result:
 ```
 * `SQL INSERT INTO` inserts new data into a database
 ```
   insert_into.sql
+  Result:
 ```
 * `SQL CREATE TABLE` creates a new table
 ```
   create_table.sql
+  Result:
 ```
 * `SQL ALTER TABLE` modifies a table
 ```
   alter_table.sql
+  Result:
 ```
 * `SQL DROP TABLE` deletes a table
 ```
   drop_table.sql
+  Result:
 ```
 * `SQL CREATE DATABASE` creates a new database
 ```
   create_database.sql
+  Result:
 ```
 ### Advanced SQL
 * `SQL UNION` combine the results of two queries together while removing duplicates.
