@@ -115,16 +115,33 @@ Some of The Most Important SQL Commands
   create_database.sql
 ```
 ### Advanced SQL
-* `SQL UNION` combine the results of two queries together while removing duplicates.
+### `SQL UNION` - combine the results of two queries together while removing duplicates.
 ```
   union.sql
-  Result:
 ```
+#### Table `regions`
+
+![image](https://user-images.githubusercontent.com/71779024/101287167-933d1300-3829-11eb-9db8-c014ab7afc9b.png)
+#### Table `countries`
+
+![image](https://user-images.githubusercontent.com/71779024/101287202-d0a1a080-3829-11eb-9b78-a57fac679e62.png)
+#### Result:
+
+![image](https://user-images.githubusercontent.com/71779024/101287285-4dcd1580-382a-11eb-8e11-bc28bbcc6cbe.png)
 * `SQL UNION ALL` combine the results of two queries together without removing any duplicates.
 ```
   union_all.sql
-  Result:
 ```
+#### Table `regions`
+
+![image](https://user-images.githubusercontent.com/71779024/101287167-933d1300-3829-11eb-9db8-c014ab7afc9b.png)
+#### Table `countries`
+
+![image](https://user-images.githubusercontent.com/71779024/101287202-d0a1a080-3829-11eb-9b78-a57fac679e62.png)
+#### Result:
+
+![image](https://user-images.githubusercontent.com/71779024/101287318-88cf4900-382a-11eb-87fd-04f82826f100.png)
+
 * `SQL Subquery` SQL statement that has another SQL query embedded in the WHERE or the HAVING clause.
 ```
   subquery.sql
