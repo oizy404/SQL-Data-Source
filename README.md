@@ -63,25 +63,31 @@ Some of The Most Important SQL Commands
 * `SQL UNION` combine the results of two queries together while removing duplicates.
 ```
   union.sql
+  Result:
 ```
 * `SQL UNION ALL` combine the results of two queries together without removing any duplicates.
 ```
   union_all.sql
+  Result:
 ```
 * `SQL Subquery` SQL statement that has another SQL query embedded in the WHERE or the HAVING clause.
 ```
   subquery.sql
+  Result:
 ```
 * `SQL CASE` provide if-then-else type of logic to SQL.
 ```
   case.sql
+  Result:
 ```
 * `SQL CONCATENATE` combines multiple character strings together.
 ```
   contcat.sql
+  Result:
 ```
 * `SQL CONVERT` converts data from one data type to another.
 ```
   convert.sql
+  Result:
 ```
 
