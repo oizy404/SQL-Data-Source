@@ -59,28 +59,22 @@ Some of The Most Important SQL Commands
 ```
   delete.sql
 ```
-* Using a simple condition
 #### Table `regions`
 
 ![image](https://user-images.githubusercontent.com/71779024/101284596-d09aa400-381b-11eb-954b-2875c8396f7e.png)
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/101284616-e9a35500-381b-11eb-8fcb-776e7d3ea878.png)
-* Using the results from a subquery
-#### Table `employees`
-
-![image](https://user-images.githubusercontent.com/71779024/101284839-10ae5680-381d-11eb-985d-f07bf876db36.png)
-#### Table `dependents`
-
-![image](https://user-images.githubusercontent.com/71779024/101284851-21f76300-381d-11eb-8679-748b2dc18898.png)
-#### Result:
-
-![image](https://user-images.githubusercontent.com/71779024/101285054-30924a00-381e-11eb-81d5-603eef4bdc48.png)
-* `SQL INSERT INTO` inserts new data into a database
+### `SQL INSERT INTO` - inserts new data into a database
 ```
   insert_into.sql
-  Result:
 ```
+#### Table `regions`
+
+![image](https://user-images.githubusercontent.com/71779024/101285414-0d689a00-3820-11eb-8864-ac614faedbdd.png)
+#### Result:
+
+![image](https://user-images.githubusercontent.com/71779024/101285479-51f43580-3820-11eb-8e9f-a1b21a292795.png)
 * `SQL CREATE TABLE` creates a new table
 ```
   create_table.sql
