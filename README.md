@@ -92,17 +92,27 @@ Some of The Most Important SQL Commands
 ### `SQL DROP TABLE` deletes a table
 ```
   drop_table.sql
-  Result:
 ```
+#### HR Tables
+
+![image](https://user-images.githubusercontent.com/71779024/101286866-f9c13180-3827-11eb-9d18-4eb1b10aed6b.png)
+#### Result:
+  
+![image](https://user-images.githubusercontent.com/71779024/101286833-b797f000-3827-11eb-9c0f-1d7bf5e08547.png)
 ### `SQL CREATE TABLE` creates a new table
 ```
   create_table.sql
-  Result:
 ```
+#### HR Tables
+`dependents` table is excluded in this list because we drop it last time. Now, were going to create the `dependents` table 
+
+![image](https://user-images.githubusercontent.com/71779024/101286833-b797f000-3827-11eb-9c0f-1d7bf5e08547.png)
+### Result:
+
+![image](https://user-images.githubusercontent.com/71779024/101286866-f9c13180-3827-11eb-9d18-4eb1b10aed6b.png)
 ### `SQL CREATE DATABASE` creates a new database
 ```
   create_database.sql
-  Result:
 ```
 ### Advanced SQL
 * `SQL UNION` combine the results of two queries together while removing duplicates.
