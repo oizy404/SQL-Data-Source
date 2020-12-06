@@ -1,1 +1,1 @@
-INSERT INTO jobs (job_id, job_title, min_salary, max_salary) VALUES (20,'Vice President',10000,20000);
+INSERT INTO regions(region_id, region_name) VALUES (4,'Middle East and Africa')
