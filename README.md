@@ -31,7 +31,7 @@ Some of The Most Important SQL Commands
 ```
   select.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source#SQL-SELECT-extracts-data-from-a-database)
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md)
 * `SQL UPDATE` updates data in a database
 ```
   update.sql
