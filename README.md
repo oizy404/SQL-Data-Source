@@ -27,60 +27,60 @@ OR
 Use the [`hr.sql`](https://github.com/oizy404/SQL-Data-Source/blob/main/hr.sql) as sample database and import directly.
 ### Basic SQL Commands
 Some of The Most Important SQL Commands
-### `SQL SELECT` - extracts data from a database
+* `SQL SELECT` extracts data from a database
 ```
   select.sql
 ```
-### `SQL UPDATE` - updates data in a database
+* `SQL UPDATE` updates data in a database
 ```
   update.sql
 ```
-### `SQL DELETE FROM` - remove records from a table
+* `SQL DELETE FROM` remove records from a table
 ```
   delete.sql
 ```
-### `SQL INSERT INTO` - inserts new data into a database
+* `SQL INSERT INTO` inserts new data into a database
 ```
   insert_into.sql
 ```
-### `SQL ALTER TABLE` - modifies a table
+* `SQL ALTER TABLE` modifies a table
 ```
   alter_table.sql
 ```
-### `SQL DROP TABLE` deletes a table
+* `SQL DROP TABLE` deletes a table
 ```
   drop_table.sql
 ```
-### `SQL CREATE TABLE` creates a new table
+* `SQL CREATE TABLE` creates a new table
 ```
   create_table.sql
 ```
-### `SQL CREATE DATABASE` creates a new database
+* `SQL CREATE DATABASE` creates a new database
 ```
   create_database.sql
 ```
 ### Advanced SQL
-### `SQL UNION` - combine the results of two queries together while removing duplicates.
+* `SQL UNION` combine the results of two queries together while removing duplicates.
 ```
   union.sql
 ```
-### `SQL UNION ALL` - combine the results of two queries together without removing any duplicates.
+* `SQL UNION ALL` combine the results of two queries together without removing any duplicates.
 ```
   union_all.sql
 ```
-### `SQL Subquery` - SQL statement that has another SQL query embedded in the WHERE or the HAVING clause.
+* `SQL Subquery` SQL statement that has another SQL query embedded in the WHERE or the HAVING clause.
 ```
   subquery.sql
 ```
-### `SQL CASE` - provide if-then-else type of logic to SQL.
+* `SQL CASE` provide if-then-else type of logic to SQL.
 ```
   case.sql
 ```
-### `SQL CONCATENATE` - combines multiple character strings together.
+* `SQL CONCATENATE` combines multiple character strings together.
 ```
   contcat.sql
 ```
-### `SQL CONVERT` converts data from one data type to another.
+* `SQL CONVERT` converts data from one data type to another.
 ```
   convert.sql
 ```
