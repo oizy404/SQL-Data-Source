@@ -1,5 +1,6 @@
 ### Basic SQL Commands
 Some of The Most Important SQL Commands
+
 ### `SQL SELECT` - extracts data from a database
 #### Table `departments`
 
