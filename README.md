@@ -36,64 +36,64 @@ Some of The Most Important SQL Commands
 ```
   update.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md)
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-UPDATE-updates-data-in-a-database)
 * `SQL DELETE FROM` remove records from a table
 ```
   delete.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md)
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-DELETE-FROM-remove-records-from-a-table)
 * `SQL INSERT INTO` inserts new data into a database
 ```
   insert_into.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md)
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-INSERT-INTO-inserts-new-data-into-a-database)
 * `SQL ALTER TABLE` modifies a table
 ```
   alter_table.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md)
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-ALTER-TABLE-modifies-a-table)
 * `SQL DROP TABLE` deletes a table
 ```
   drop_table.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md)
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-DROP-TABLE-deletes-a-table)
 * `SQL CREATE TABLE` creates a new table
 ```
   create_table.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md)
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CREATE-TABLE-creates-a-new-table)
 * `SQL CREATE DATABASE` creates a new database
 ```
   create_database.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md)
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CREATE-DATABASE-creates-a-new-database)
 ### Advanced SQL
-* `SQL UNION` combine the results of two queries together while removing duplicates.
+* `SQL UNION` combine the results of two queries together while removing duplicates
 ```
   union.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md)
-* `SQL UNION ALL` combine the results of two queries together without removing any duplicates.
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-UNION-combine-the-results-of-two-queries-together-while-removing-duplicates)
+* `SQL UNION ALL` combine the results of two queries together without removing any duplicates
 ```
   union_all.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md)
-* `SQL Subquery` SQL statement that has another SQL query embedded in the WHERE or the HAVING clause.
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-UNION-ALL-combine-the-results-of-two-queries-together-without-removing-any-duplicates)
+* `SQL Subquery` SQL statement that has another SQL query embedded in the WHERE or the HAVING clause
 ```
   subquery.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md)
-* `SQL CASE` provide if-then-else type of logic to SQL.
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-Subquery-SQL-statement-that-has-another-SQL-query-embedded-in-the-WHERE-or-the-HAVING-clause)
+* `SQL CASE` provide if-then-else type of logic to SQL
 ```
   case.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md)
-* `SQL CONCATENATE` combines multiple character strings together.
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CASE-provide-if-then-else-type-of-logic-to-SQL)
+* `SQL CONCATENATE` combines multiple character strings together
 ```
   contcat.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md)
-* `SQL CONVERT` converts data from one data type to another.
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CONCATENATE-combines-multiple-character-strings-together)
+* `SQL CONVERT` converts data from one data type to another
 ```
   convert.sql
 ```
