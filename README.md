@@ -66,7 +66,7 @@ Some of The Most Important SQL Commands
 ```
   create_database.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CREATE-DATABASE-creates-a-new-database)
+  ##### Execute to see the output
 ### Advanced SQL
 * `SQL UNION` combine the results of two queries together while removing duplicates
 ```
