@@ -97,4 +97,4 @@ Some of The Most Important SQL Commands
 ```
   convert.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md)
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CONVERT-converts-data-from-one-data-type-to-another)
