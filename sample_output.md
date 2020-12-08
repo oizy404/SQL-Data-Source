@@ -66,7 +66,6 @@ Some of The Most Important SQL Commands
 ### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/101286866-f9c13180-3827-11eb-9d18-4eb1b10aed6b.png)
-### `SQL CREATE DATABASE` creates a new database
 ### Advanced SQL
 ### `SQL UNION` - combine the results of two queries together while removing duplicates.
 #### Table `regions`
