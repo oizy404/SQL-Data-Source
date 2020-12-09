@@ -5,8 +5,8 @@
 2. [The Database Tables](https://github.com/oizy404/SQL-Data-Source#The-Database-Tables)
 3. [Installation](https://github.com/oizy404/SQL-Data-Source#Installation)
 4. [SQL QUERIES](https://github.com/oizy404/SQL-Data-Source#SQL-QUERIES)
-  * SQL UNION
-  * SQL UNION ALL
+    * SQL UNION
+    * SQL UNION ALL
 ## SQL Sample Database
 The database used was the SQL Tutorial sample database which can be found on this [website](https://www.sqltutorial.org/). This SQL Sample Database called HR that manages the HR data of the small businesses. HR database has seven (7) tables; employees table, dependents table, departments, jobs, locations, countries and regions. These tables stores various data of HR.
 * The following database diagram illustrates the HR sample database:
