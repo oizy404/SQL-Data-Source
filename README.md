@@ -8,8 +8,7 @@ This SQL Sample Database called HR that manages the HR data of the small busines
 ## CONTENTS
 1. [The Database Tables](https://github.com/oizy404/SQL-Data-Source#The-Database-Tables)
 2. [Installation](https://github.com/oizy404/SQL-Data-Source#Installation)
-3. [Basic SQL Commands](https://github.com/oizy404/SQL-Data-Source#Basic-SQL-Commands)
-4. [Advanced SQL](https://github.com/oizy404/SQL-Data-Source#Advanced-SQL)
+3. [SQL QUERIES](https://github.com/oizy404/SQL-Data-Source#SQL-QUERIES)
 ### The Database Tables
 The HR sample database consists of the following tables:
 1. `employees` stores the data of employees.
@@ -25,49 +24,7 @@ In creating the sample database step by step you can download [here](https://www
 OR
 
 Use the [`hr.sql`](https://github.com/oizy404/SQL-Data-Source/blob/main/hr.sql) as sample database and import directly.
-### Basic SQL Commands
-Some of The Most Important SQL Commands
-* `SQL SELECT` extracts data from a database
-```
-  select.sql
-```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-SELECT-extracts-data-from-a-database)
-* `SQL UPDATE` updates data in a database
-```
-  update.sql
-```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-UPDATE-updates-data-in-a-database)
-* `SQL DELETE FROM` remove records from a table
-```
-  delete.sql
-```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-DELETE-FROM-remove-records-from-a-table)
-* `SQL INSERT INTO` inserts new data into a database
-```
-  insert_into.sql
-```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-INSERT-INTO-inserts-new-data-into-a-database)
-* `SQL ALTER TABLE` modifies a table
-```
-  alter_table.sql
-```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-ALTER-TABLE-modifies-a-table)
-* `SQL DROP TABLE` deletes a table
-```
-  drop_table.sql
-```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-DROP-TABLE-deletes-a-table)
-* `SQL CREATE TABLE` creates a new table
-```
-  create_table.sql
-```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CREATE-TABLE-creates-a-new-table)
-* `SQL CREATE DATABASE` creates a new database
-```
-  create_database.sql
-```
-  ##### Execute to see the output
-### Advanced SQL
+### SQL QUERIES
 * `SQL UNION` combine the results of two queries together while removing duplicates
 ```
   union.sql
