@@ -7,6 +7,10 @@
 4. [SQL QUERIES](https://github.com/oizy404/SQL-Data-Source#SQL-QUERIES)
     * [SQL UNION](https://github.com/oizy404/SQL-UNION)
     * SQL UNION ALL
+    * SQL Subquery
+    * SQL CASE
+    * SQL CONCATENATE
+    * SQL CONVERT
 ## SQL Sample Database
 The database used was the SQL Tutorial sample database which can be found on this [website](https://www.sqltutorial.org/). This SQL Sample Database called HR that manages the HR data of the small businesses. HR database has seven (7) tables; employees table, dependents table, departments, jobs, locations, countries and regions. These tables stores various data of HR.
 * The following database diagram illustrates the HR sample database:
@@ -34,27 +38,31 @@ Use the [`hr.sql`](https://github.com/oizy404/SQL-Data-Source/blob/main/hr.sql) 
   union.sql
 ```
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-UNION-combine-the-results-of-two-queries-together-while-removing-duplicates)
-  #### SQL UNION ALL
+#### SQL UNION ALL
 * `SQL UNION ALL` combine the results of two queries together without removing any duplicates
 ```
   union_all.sql
 ```
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-UNION-ALL-combine-the-results-of-two-queries-together-without-removing-any-duplicates)
+#### SQL- Subquery
 * `SQL Subquery` SQL statement that has another SQL query embedded in the WHERE or the HAVING clause
 ```
   subquery.sql
 ```
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-Subquery-SQL-statement-that-has-another-SQL-query-embedded-in-the-WHERE-or-the-HAVING-clause)
+#### SQL-CASE
 * `SQL CASE` provide if-then-else type of logic to SQL
 ```
   case.sql
 ```
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CASE-provide-if-then-else-type-of-logic-to-SQL)
+#### SQL CONCATENATE
 * `SQL CONCATENATE` combines multiple character strings together
 ```
   contcat.sql
 ```
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CONCATENATE-combines-multiple-character-strings-together)
+#### SQL CONVERT
 * `SQL CONVERT` converts data from one data type to another
 ```
   convert.sql
