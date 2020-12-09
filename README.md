@@ -37,34 +37,34 @@ Use the [`hr.sql`](https://github.com/oizy404/SQL-Data-Source/blob/main/hr.sql) 
 ```
   union.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-UNION-combine-the-results-of-two-queries-together-while-removing-duplicates)
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-UNION)
 #### SQL UNION ALL
 * `SQL UNION ALL` combine the results of two queries together without removing any duplicates
 ```
   union_all.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-UNION-ALL-combine-the-results-of-two-queries-together-without-removing-any-duplicates)
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-UNION-ALL)
 #### SQL- Subquery
 * `SQL Subquery` SQL statement that has another SQL query embedded in the WHERE or the HAVING clause
 ```
   subquery.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-Subquery-SQL-statement-that-has-another-SQL-query-embedded-in-the-WHERE-or-the-HAVING-clause)
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-Subquery)
 #### SQL-CASE
 * `SQL CASE` provide if-then-else type of logic to SQL
 ```
   case.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CASE-provide-if-then-else-type-of-logic-to-SQL)
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CASE)
 #### SQL CONCATENATE
 * `SQL CONCATENATE` combines multiple character strings together
 ```
   contcat.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CONCATENATE-combines-multiple-character-strings-together)
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CONCATENATE)
 #### SQL CONVERT
 * `SQL CONVERT` converts data from one data type to another
 ```
   convert.sql
 ```
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CONVERT-converts-data-from-one-data-type-to-another)
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CONVERT)
