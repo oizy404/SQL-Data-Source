@@ -1,7 +1,8 @@
 # SQL-Data-Source
+
 ## CONTENTS
 1. [SQL Sample Database](https://github.com/oizy404/SQL-Data-Source#SQL-Sample-Database)
-2.[The Database Tables](https://github.com/oizy404/SQL-Data-Source#The-Database-Tables)
+2. [The Database Tables](https://github.com/oizy404/SQL-Data-Source#The-Database-Tables)
 3. [Installation](https://github.com/oizy404/SQL-Data-Source#Installation)
 4. [SQL QUERIES](https://github.com/oizy404/SQL-Data-Source#SQL-QUERIES)
 ## SQL Sample Database
