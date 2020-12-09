@@ -1,8 +1,6 @@
 # SQL-Data-Source
 ## HR Database
-The database used was the SQL Tutorial sample database which can be found on this [website](https://www.sqltutorial.org/). 
-
-This SQL Sample Database called HR that manages the HR data of the small businesses.
+The database used was the SQL Tutorial sample database which can be found on this [website](https://www.sqltutorial.org/). This SQL Sample Database called HR that manages the HR data of the small businesses. HR database has seven (7) tables; employees table, dependents table, departments, jobs, locations, countries and regions. These tables stores various data of HR.
 * The following database diagram illustrates the HR sample database:
 ![image](https://user-images.githubusercontent.com/71779024/101023116-451bdb80-35ad-11eb-9ebb-369063785a88.png)
 ## CONTENTS
