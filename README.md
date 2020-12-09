@@ -5,12 +5,12 @@
 2. [The Database Tables](https://github.com/oizy404/SQL-Data-Source#The-Database-Tables)
 3. [Installation](https://github.com/oizy404/SQL-Data-Source#Installation)
 4. [SQL QUERIES](https://github.com/oizy404/SQL-Data-Source#SQL-QUERIES)
-    * [SQL UNION](https://github.com/oizy404/SQL-UNION)
-    * [SQL UNION ALL](https://github.com/oizy404/SQL-UNION-ALL)
-    * [SQL Subquery](https://github.com/oizy404/SQL-Subquery)
-    * [SQL CASE](https://github.com/oizy404/SQL-CASE)
-    * [SQL CONCATENATE](https://github.com/oizy404/SQL-CONCATENATE)
-    * [SQL CONVERT](https://github.com/oizy404/SQL-CONVERT)
+    * [SQL UNION](https://github.com/oizy404/#SQL-UNION)
+    * [SQL UNION ALL](https://github.com/oizy404/#SQL-UNION-ALL)
+    * [SQL Subquery](https://github.com/oizy404/#SQL-Subquery)
+    * [SQL CASE](https://github.com/oizy404/#SQL-CASE)
+    * [SQL CONCATENATE](https://github.com/oizy404/#SQL-CONCATENATE)
+    * [SQL CONVERT](https://github.com/oizy404/#SQL-CONVERT)
 ## SQL Sample Database
 The database used was the SQL Tutorial sample database which can be found on this [website](https://www.sqltutorial.org/). This SQL Sample Database called HR that manages the HR data of the small businesses. HR database has seven (7) tables; employees table, dependents table, departments, jobs, locations, countries and regions. These tables stores various data of HR.
 * The following database diagram illustrates the HR sample database:
