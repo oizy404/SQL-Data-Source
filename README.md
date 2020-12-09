@@ -44,7 +44,7 @@ Use the [`hr.sql`](https://github.com/oizy404/SQL-Data-Source/blob/main/hr.sql) 
   union_all.sql
 ```
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-UNION-ALL)
-#### SQL- Subquery
+#### SQL Subquery
 * `SQL Subquery` SQL statement that has another SQL query embedded in the WHERE or the HAVING clause
 ```
   subquery.sql
