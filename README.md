@@ -63,8 +63,15 @@ Use the [`hr.sql`](https://github.com/oizy404/SQL-Data-Source/blob/main/hr.sql) 
 ```
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CONCATENATE)
 #### SQL CONVERT
-* `SQL CONVERT` converts data from one data type to another
+* `SQL CONVERT` converts data from one data type to another.
 ```
   convert.sql
 ```
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CONVERT)
+
+#### SQL INNER JOIN
+* `SQL INNER JOIN` also known as SIMPLE JOIN which returns all rows from BOTH tables when it has at least one matching column.
+````
+   inner_join.sql
+````
+   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-INNER-JOIN)
