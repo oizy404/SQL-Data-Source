@@ -78,6 +78,7 @@ Use the [`hr.sql`](https://github.com/oizy404/SQL-Data-Source/blob/main/hr.sql) 
 ````
    ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-INNER-JOIN)
    
+#### SQL LEFT JOIN
 * `SQL LEFT JOIN` returns all rows from the LEFT table and its matched rows from a RIGHT table.
 ````
    left_join.sql
