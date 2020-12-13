@@ -1,5 +1,5 @@
-SELECT employees.employee_id, departments.department_id
-  FROM employees
-  INNER JOIN departments
-  ON departments.department_id = departments.department_id
-  ORDER BY employees.employee_id;
+SELECT countries.country_id, locations.location_id
+  FROM countries
+  INNER JOIN locations
+  ON countries.country_id= locations.country_id
+  ORDER BY countries.country_id;
