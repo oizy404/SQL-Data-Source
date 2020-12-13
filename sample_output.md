@@ -59,13 +59,23 @@
 
 ![image](https://user-images.githubusercontent.com/71779024/101288219-54f72200-3830-11eb-8baf-71c31f6098e7.png)
 #### SQL INNER JOIN
-#### Table `employee`
+#### Table `countries`
 
-![image](https://user-images.githubusercontent.com/71779024/102012391-f3313d80-3d84-11eb-8a0b-dcf7a4244117.png)
-#### Table `departments`
+![image](https://user-images.githubusercontent.com/71779024/102013596-2e833a80-3d8c-11eb-8e8e-39184dd80749.png)
+#### Table `locations`
 
-![image](https://user-images.githubusercontent.com/71779024/102012369-ddbc1380-3d84-11eb-9408-4f375003f413.png)
+![image](https://user-images.githubusercontent.com/71779024/102013612-3f33b080-3d8c-11eb-8955-bd771c0b84e4.png)
 
 #### Result:
 
-![image](https://user-images.githubusercontent.com/71779024/102012301-946bc400-3d84-11eb-96b2-a73822e0ff14.png)
+![image](https://user-images.githubusercontent.com/71779024/102013547-dea47380-3d8b-11eb-8ffe-d47728320f04.png)
+#### SQL LET JOIN
+#### Table `countries`
+
+![image](https://user-images.githubusercontent.com/71779024/102013596-2e833a80-3d8c-11eb-8e8e-39184dd80749.png)
+#### Table `locations`
+
+![image](https://user-images.githubusercontent.com/71779024/102013612-3f33b080-3d8c-11eb-8955-bd771c0b84e4.png)
+#### Result:
+
+![image](https://user-images.githubusercontent.com/71779024/102013537-cb91a380-3d8b-11eb-8852-ce4f1c45ebd1.png)
