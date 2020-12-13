@@ -69,7 +69,7 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/102013547-dea47380-3d8b-11eb-8ffe-d47728320f04.png)
-#### SQL LET JOIN
+#### SQL LEFT JOIN
 #### Table `countries`
 
 ![image](https://user-images.githubusercontent.com/71779024/102013596-2e833a80-3d8c-11eb-8e8e-39184dd80749.png)
