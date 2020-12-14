@@ -79,3 +79,14 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/102013537-cb91a380-3d8b-11eb-8852-ce4f1c45ebd1.png)
+#### SQL RIGHT JOIN
+#### Table `countries`
+
+![image](https://user-images.githubusercontent.com/71779024/102013596-2e833a80-3d8c-11eb-8e8e-39184dd80749.png)
+#### Table `locations`
+
+![image](https://user-images.githubusercontent.com/71779024/102013612-3f33b080-3d8c-11eb-8955-bd771c0b84e4.png)
+#### Result:
+
+![image](https://user-images.githubusercontent.com/71779024/102077578-81b8c400-3e44-11eb-9f0e-9e0ff009970b.png)
+
