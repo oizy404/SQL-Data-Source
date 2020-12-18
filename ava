@@ -1,0 +1,11 @@
+ALTER TABLE yourtable ADD COLUMN combined VARCHAR(50);
+
+UPDATE yourtable SET combined = CONCAT(zipcode, ' - ', city, ', ', state);
+
+ALTER TABLE yourtable 
+ADD Full_name AS (lastname+', '+firsname);
+
+1st trigger
+CREATE TRIGGER insert_trigger BEFORE INSERT ON yourtable FOR EACH ROW SET new.combined = CONCAT(new.zipcode, ' - ', new.city, ', ', new.state);
+2nd trigger
+CREATE TRIGGER update_trigger BEFORE UPDATE ON yourtable FOR EACH ROW SET new.combined = CONCAT(new.zipcode, ' - ', new.city, ', ', new.state);
