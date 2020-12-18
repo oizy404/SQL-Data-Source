@@ -3,8 +3,9 @@
 ## CONTENTS
 1. [SQL Sample Database](https://github.com/oizy404/SQL-Data-Source#SQL-Sample-Database)
 2. [The Database Tables](https://github.com/oizy404/SQL-Data-Source#The-Database-Tables)
-3. [Installation](https://github.com/oizy404/SQL-Data-Source#Installation)
-4. [SQL QUERIES](https://github.com/oizy404/SQL-Data-Source#SQL-QUERIES)
+3. [HR Database Dependency Diagram](https://github.com/oizy404/SQL-Data-Source#HR-Database-Dependency-Diagram)
+4. [Installation](https://github.com/oizy404/SQL-Data-Source#Installation)
+5. [SQL QUERIES](https://github.com/oizy404/SQL-Data-Source#SQL-QUERIES)
     * [SQL UNION](https://github.com/oizy404/SQL-Data-Source#SQL-UNION)
     * [SQL UNION ALL](https://github.com/oizy404/SQL-Data-Source#SQL-UNION-ALL)
     * [SQL Subquery](https://github.com/oizy404/SQL-Data-Source#SQL-Subquery)
@@ -27,6 +28,8 @@ The HR sample database consists of the following tables:
 5. `locations` stores the location of the departments of the company.
 6. `countries` stores the data of countries where the company is doing business.
 7. `regions` stores the data of regions such as Asia, Europe, America, and the Middle East and Africa. The countries are grouped into regions.
+### HR Database Dependency Diagram
+
 ### Installation
 In creating the sample database step by step you can download [here](https://www.sqltutorial.org/).
 
