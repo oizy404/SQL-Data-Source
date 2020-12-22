@@ -29,7 +29,7 @@ The HR sample database consists of the following tables:
 6. `countries` stores the data of countries where the company is doing business.
 7. `regions` stores the data of regions such as Asia, Europe, America, and the Middle East and Africa. The countries are grouped into regions.
 ### HR Database Dependency Diagram
-![FDD](https://user-images.githubusercontent.com/71779024/102874648-b26caf00-447d-11eb-9b8a-5aed57f6b843.jpg)
+![FDD-01](https://user-images.githubusercontent.com/71779024/102874841-f65fb400-447d-11eb-84e5-b87c2281bd89.png)
 
 
 ### Installation
