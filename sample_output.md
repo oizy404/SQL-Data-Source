@@ -97,5 +97,5 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/103013622-70746380-4578-11eb-9f26-fb24f0f81dd7.png)
-Ps: try to execute `INSERT` if the trigger is really working
+
 
