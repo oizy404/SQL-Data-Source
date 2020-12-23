@@ -90,3 +90,12 @@
 
 ![image](https://user-images.githubusercontent.com/71779024/102077578-81b8c400-3e44-11eb-9f0e-9e0ff009970b.png)
 
+#### SQL TRIGGER
+#### Table `locations`
+
+![image](https://user-images.githubusercontent.com/71779024/103013407-0e1b6300-4578-11eb-99be-02288107e4c8.png)
+#### Result:
+
+![image](https://user-images.githubusercontent.com/71779024/103013622-70746380-4578-11eb-9f26-fb24f0f81dd7.png)
+Ps: try to execute `INSERT` if the trigger is really working
+
