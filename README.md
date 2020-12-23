@@ -15,6 +15,7 @@
     * [SQL INNER JOIN](https://github.com/oizy404/SQL-Data-Source#SQL-INNER-JOIN)
     * [SQL LEFT JOIN](https://github.com/oizy404/SQL-Data-Source#SQL-LEFT-JOIN)
     * [SQL RIGHT JOIN](https://github.com/oizy404/SQL-Data-Source#SQL-RIGHT-JOIN)
+    * [SQL TRIGGER](https://github.com/oizy404/SQL-Data-Source#SQL-TRIGGER)
 ## SQL Sample Database
 This SQL Sample Database called HR that manages the HR data of the small businesses. HR database has seven (7) tables; employees table, dependents table, departments, jobs, locations, countries and regions. These tables stores various data of HR. The database used was the SQL Tutorial sample database which can be found on this [website](https://www.sqltutorial.org/). 
 * The following database diagram illustrates the HR sample database:
@@ -96,4 +97,12 @@ Use the [`hr.sql`](https://github.com/oizy404/SQL-Data-Source/blob/main/hr.sql) 
    right_join.sql
 ````
    ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-RIGHT-JOIN)
+   
+#### SQL TRIGGER
+* `SQL TRIGGER` automatically executed in response to certain events on a particular table.
+```
+   trigger.sql
+```
+Importance: Used to maintain the integrity of the data.
+   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-TRIGGER)
 
