@@ -108,3 +108,11 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/103146392-67a3ad80-4783-11eb-99ba-74a9601dddcb.png)
+
+#### SQL STORED PROCEDURES
+#### Table `locations`
+
+![image](https://user-images.githubusercontent.com/71779024/103013407-0e1b6300-4578-11eb-99be-02288107e4c8.png)
+#### Result:
+
+![image](https://user-images.githubusercontent.com/71779024/103153818-41572f80-47ce-11eb-9ef8-69707c79e075.png)
