@@ -118,6 +118,7 @@ Importance: it will retrieve the identical data in a rows into group.
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-GROUP-BY)
 #### SQL STORED PROCEDURES
 * `SQL STORED PROCEDURES` a prepared SQL code that you can save, so the code can be reused over and over again.
-```stored_procedures.sql
+```
+   stored_procedures.sql
 ```
 Importance: allows us to create SQL queries to be stored and executed on the server and reused it again.
