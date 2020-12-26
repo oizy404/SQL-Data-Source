@@ -17,6 +17,7 @@
     * [SQL RIGHT JOIN](https://github.com/oizy404/SQL-Data-Source#SQL-RIGHT-JOIN)
     * [SQL TRIGGER](https://github.com/oizy404/SQL-Data-Source#SQL-TRIGGER)
     * [SQL GROUP BY](https://github.com/oizy404/SQL-Data-Source#SQL-GROUP-BY)
+    * [SQL STORED PROCEDURES](https://github.com/oizy404/SQL-Data-Source#SQL-STORED-PROCEDURES)
 ## SQL Sample Database
 This SQL Sample Database called HR that manages the HR data of the small businesses. HR database has seven (7) tables; employees table, dependents table, departments, jobs, locations, countries and regions. These tables stores various data of HR. The database used was the SQL Tutorial sample database which can be found on this [website](https://www.sqltutorial.org/). 
 * The following database diagram illustrates the HR sample database:
@@ -115,3 +116,8 @@ Importance: Used to maintain the integrity of the data.
 ```
 Importance: it will retrieve the identical data in a rows into group. 
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-GROUP-BY)
+#### SQL STORED PROCEDURES
+* `SQL STORED PROCEDURES` a prepared SQL code that you can save, so the code can be reused over and over again.
+```stored_procedures.sql
+```
+Importance: allows us to create SQL queries to be stored and executed on the server and reused it again.
