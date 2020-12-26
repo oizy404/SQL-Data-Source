@@ -122,3 +122,4 @@ Importance: it will retrieve the identical data in a rows into group.
    stored_procedures.sql
 ```
 Importance: allows us to create SQL queries to be stored and executed on the server and reused it again.
+   #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-STORED-PROCEDURES)
