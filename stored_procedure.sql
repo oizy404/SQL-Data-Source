@@ -1,4 +1,4 @@
-//To create this stored function, run the following MySQL statements:
+--To create this stored function, run the following SQL statements:
 
 DELIMITER $$
 CREATE FUNCTION select_location(street_address VARCHAR (40), city VARCHAR (30), state_province VARCHAR (25)) RETURNS VARCHAR(100)
@@ -9,6 +9,6 @@ BEGIN
 END$$
 DELIMITER ;
 
-//To invoke the stored procedure, use the following SQL statement:
+--To invoke the stored procedure, use the following SQL statement:
                                                                                                         
 SELECT *, select_location(street_address,city,state_province) AS complete_address FROM locations
