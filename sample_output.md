@@ -98,4 +98,13 @@
 
 ![image](https://user-images.githubusercontent.com/71779024/103013622-70746380-4578-11eb-9f26-fb24f0f81dd7.png)
 
+#### SQL GROUP BY
+#### Table `employees`
+
+![image](https://user-images.githubusercontent.com/71779024/101287981-af8f7e80-382e-11eb-9a9f-e3cdde768f1f.png)
+
+#### Result:
+
+![image](https://user-images.githubusercontent.com/71779024/103146392-67a3ad80-4783-11eb-99ba-74a9601dddcb.png)
+
 
