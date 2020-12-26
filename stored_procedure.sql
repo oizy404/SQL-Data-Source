@@ -10,5 +10,5 @@ END$$
 DELIMITER ;
 
 //To invoke the stored procedure, use the following SQL statement:
-
+                                                                                                        
 SELECT *, select_location(street_address,city,state_province) AS complete_address FROM locations
