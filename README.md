@@ -16,6 +16,7 @@
     * [SQL LEFT JOIN](https://github.com/oizy404/SQL-Data-Source#SQL-LEFT-JOIN)
     * [SQL RIGHT JOIN](https://github.com/oizy404/SQL-Data-Source#SQL-RIGHT-JOIN)
     * [SQL TRIGGER](https://github.com/oizy404/SQL-Data-Source#SQL-TRIGGER)
+    * [SQL TRIGGER](https://github.com/oizy404/SQL-Data-Source#SQL-GROUP-BY)
 ## SQL Sample Database
 This SQL Sample Database called HR that manages the HR data of the small businesses. HR database has seven (7) tables; employees table, dependents table, departments, jobs, locations, countries and regions. These tables stores various data of HR. The database used was the SQL Tutorial sample database which can be found on this [website](https://www.sqltutorial.org/). 
 * The following database diagram illustrates the HR sample database:
