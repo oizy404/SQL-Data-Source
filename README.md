@@ -107,3 +107,10 @@ Importance: Used to maintain the integrity of the data.
    ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-TRIGGER)
    Ps: try to execute `INSERT` after executing the above code to ensure if the trigger is really working
 
+#### SQL GROUP BY
+* `SQL GROUP BY` used to arrange identical data into groups with the help of some functions.
+```
+   group_by.sql
+```
+Importance: it will retrieve the identical data in a rows into group. 
+   #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-GROUP-BY)
