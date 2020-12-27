@@ -144,5 +144,5 @@ Importance: allows us to create SQL queries to be stored and executed on the ser
 ```
    rank_func.SQL
 ```
-Importance: allows us to rank
+Importance: helpS to perform calculations across a set of rows without the need to repeat calls to the database.
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-ranking-functions)
