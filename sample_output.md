@@ -130,3 +130,10 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/103153818-41572f80-47ce-11eb-9ef8-69707c79e075.png)
+#### SQL RANKING FUNCTIONS
+#### Table `employees`
+
+![image](https://user-images.githubusercontent.com/71779024/101287981-af8f7e80-382e-11eb-9a9f-e3cdde768f1f.png)
+Result:
+
+![image](https://user-images.githubusercontent.com/71779024/103165668-b1f55f00-4855-11eb-8c79-0732b8d6d7d7.png)
