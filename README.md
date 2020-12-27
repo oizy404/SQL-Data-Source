@@ -46,40 +46,46 @@ Use the [`hr.sql`](https://github.com/oizy404/SQL-Data-Source/blob/main/hr.sql) 
 ### SQL QUERIES
 
 #### SQL UNION
-* `SQL UNION` combine the results of two queries together while removing duplicates
+* `SQL UNION` combine the results of two queries together while removing duplicates.
 ```
   union.sql
 ```
+Importance: allows you to retrieve data without duplication. 
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-UNION)
 #### SQL UNION ALL
-* `SQL UNION ALL` combine the results of two queries together without removing any duplicates
+* `SQL UNION ALL` combine the results of two queries together without removing any duplicates.
 ```
   union_all.sql
 ```
+Importance: allows you to retrieve all data with duplication.
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-UNION-ALL)
 #### SQL Subquery
-* `SQL Subquery` SQL statement that has another SQL query embedded in the WHERE or the HAVING clause
+* `SQL Subquery` SQL statement that has another SQL query embedded in the WHERE or the HAVING clause.
 ```
   subquery.sql
 ```
+Importance: used to return data that will be used in the main query as a condition to further restrict the data to be retrieved.
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-Subquery)
 #### SQL-CASE
 * `SQL CASE` provide if-then-else type of logic to SQL
 ```
   case.sql
 ```
+Importance: in accordance of meeting the condition, sql case allows you to control the execution of the sql statements.
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CASE)
 #### SQL CONCATENATE
-* `SQL CONCATENATE` combines multiple character strings together
+* `SQL CONCATENATE` combines multiple character strings together.
 ```
   contcat.sql
 ```
+Importance: used to combine charactes and strings.
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CONCATENATE)
 #### SQL CONVERT
 * `SQL CONVERT` converts data from one data type to another.
 ```
   convert.sql
 ```
+Importance: used to change data type to another.
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CONVERT)
 
 #### SQL INNER JOIN
@@ -87,6 +93,7 @@ Use the [`hr.sql`](https://github.com/oizy404/SQL-Data-Source/blob/main/hr.sql) 
 ````
    inner_join.sql
 ````
+Importance: used to retrieve data that appears in both tables.
    ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-INNER-JOIN)
    
 #### SQL LEFT JOIN
@@ -94,6 +101,7 @@ Use the [`hr.sql`](https://github.com/oizy404/SQL-Data-Source/blob/main/hr.sql) 
 ````
    left_join.sql
 ````
+Importance: return all the data from the first table regardless if either there is or there is no matching row from the second table.
    ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-LEFT-JOIN)
    
 #### SQL RIGHT JOIN
@@ -101,6 +109,7 @@ Use the [`hr.sql`](https://github.com/oizy404/SQL-Data-Source/blob/main/hr.sql) 
 ````
    right_join.sql
 ````
+Importance: return all the data from the first table regardless if either there is or there is no matching row from the second table.
    ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-RIGHT-JOIN)
    
 #### SQL TRIGGER
