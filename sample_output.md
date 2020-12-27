@@ -89,7 +89,6 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/102077578-81b8c400-3e44-11eb-9f0e-9e0ff009970b.png)
-
 #### SQL TRIGGER
 #### Table `locations`
 
@@ -97,7 +96,6 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/103013622-70746380-4578-11eb-9f26-fb24f0f81dd7.png)
-
 #### SQL GROUP BY
 #### Table `employees`
 
@@ -107,8 +105,17 @@
 ![image](https://user-images.githubusercontent.com/71779024/103146415-fadce300-4783-11eb-847d-972a81fa0c6f.png)
 #### Result:
 
-![image](https://user-images.githubusercontent.com/71779024/103146392-67a3ad80-4783-11eb-99ba-74a9601dddcb.png)
+![image](https://user-images.githubusercontent.com/71779024/103164588-5cff1c00-4848-11eb-90f0-e0d61a9f7a7a.png)
+#### SQL GROUP BY with MIN, MAX, and AVG
+#### Table `employees`
 
+![image](https://user-images.githubusercontent.com/71779024/101287981-af8f7e80-382e-11eb-9a9f-e3cdde768f1f.png)
+#### Table `departments`
+
+![image](https://user-images.githubusercontent.com/71779024/103146415-fadce300-4783-11eb-847d-972a81fa0c6f.png)
+#### Result:
+
+![image](https://user-images.githubusercontent.com/71779024/103146392-67a3ad80-4783-11eb-99ba-74a9601dddcb.png)
 #### SQL STORED PROCEDURES
 #### Table `locations`
 
