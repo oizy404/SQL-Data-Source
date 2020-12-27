@@ -117,6 +117,13 @@
 
 ![image](https://user-images.githubusercontent.com/71779024/103164588-5cff1c00-4848-11eb-90f0-e0d61a9f7a7a.png)
 #### SQL STORED PROCEDURES
+#### Table `employees`
+
+![image](https://user-images.githubusercontent.com/71779024/101287981-af8f7e80-382e-11eb-9a9f-e3cdde768f1f.png)
+#### Result:
+
+![image](https://user-images.githubusercontent.com/71779024/103164962-bec18500-484c-11eb-8bfc-fb1c80d8b929.png)
+#### SQL STORED PROCEDURES with CONCAT
 #### Table `locations`
 
 ![image](https://user-images.githubusercontent.com/71779024/103013407-0e1b6300-4578-11eb-99be-02288107e4c8.png)
