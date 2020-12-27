@@ -20,6 +20,7 @@
       * [SQL GROUP BY with MIN, MAX, and AVG](https://github.com/oizy404/SQL-Data-Source#sql-group-by-with-min-max-and-avg)
     * [SQL STORED PROCEDURES](https://github.com/oizy404/SQL-Data-Source#SQL-STORED-PROCEDURES)
       * [SQL STORED PROCEDURES with CONCAT](https://github.com/oizy404/SQL-Data-Source#SQL-STORED-PROCEDURES-with-CONCAT)
+    * [SQL RANKING FUNCTIONS](https://github.com/oizy404/SQL-Data-Source/blob/main/README.md#sql-ranking-functions)
 ## SQL Sample Database
 This SQL Sample Database called HR that manages the HR data of the small businesses. HR database has seven (7) tables; employees table, dependents table, departments, jobs, locations, countries and regions. These tables stores various data of HR. The database used was the SQL Tutorial sample database which can be found on this [website](https://www.sqltutorial.org/). 
 * The following database diagram illustrates the HR sample database:
@@ -143,5 +144,5 @@ Importance: allows us to create SQL queries to be stored and executed on the ser
 ```
    rank_func.SQL
 ```
-Importaance:
+Importance: allows us to rank
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-ranking-functions)
