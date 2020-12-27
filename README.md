@@ -131,10 +131,10 @@ Importance: allowws to returns the minimum, maximum, and average data.
    stored_procedures.sql
 ```
 Importance: allows us to create SQL queries to be stored and executed on the server and reused it again.
-   #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-STORED-PROCEDURES)
+   #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-stored-procedures)
 #### SQL STORED PROCEDURES with CONCAT
 ```
    stored_procedures_concat.sql
 ```
 Importance: allows us to create SQL queries to be stored and executed on the server and reused it again and returns the concatination data of specific columns.
-   #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-STORED-PROCEDURES-with-CONCAT)
+   #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-stored-procedures-with-concat)
