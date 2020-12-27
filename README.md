@@ -138,3 +138,10 @@ Importance: allows us to create SQL queries to be stored and executed on the ser
 ```
 Importance: allows us to create SQL queries to be stored and executed on the server and reused it again and returns the concatination data of specific columns.
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-stored-procedures-with-concat)
+#### SQL RANKING FUNCTIONS
+* `SQL RANKING FUNCTIONS` is a window function that assigns a rank to each row within a partition of a result set.
+```
+   rank_func.SQL
+```
+Importaance:
+   #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-ranking-functions)
