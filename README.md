@@ -19,6 +19,7 @@
     * [SQL GROUP BY](https://github.com/oizy404/SQL-Data-Source#SQL-GROUP-BY)
       * [SQL GROUP BY with MIN, MAX, and AVG](https://github.com/oizy404/SQL-Data-Source#sql-group-by-with-min-max-and-avg)
     * [SQL STORED PROCEDURES](https://github.com/oizy404/SQL-Data-Source#SQL-STORED-PROCEDURES)
+      * [SQL STORED PROCEDURES with CONCAT](https://github.com/oizy404/SQL-Data-Source#SQL-STORED-PROCEDURES-with-CONCAT)
 ## SQL Sample Database
 This SQL Sample Database called HR that manages the HR data of the small businesses. HR database has seven (7) tables; employees table, dependents table, departments, jobs, locations, countries and regions. These tables stores various data of HR. The database used was the SQL Tutorial sample database which can be found on this [website](https://www.sqltutorial.org/). 
 * The following database diagram illustrates the HR sample database:
@@ -131,3 +132,9 @@ Importance: allowws to returns the minimum, maximum, and average data.
 ```
 Importance: allows us to create SQL queries to be stored and executed on the server and reused it again.
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-STORED-PROCEDURES)
+#### SQL STORED PROCEDURES with CONCAT
+```
+   stored_procedures_concat.sql
+```
+Importance: allows us to create SQL queries to be stored and executed on the server and reused it again and returns the concatination data of specific columns.
+   #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-STORED-PROCEDURES-with-CONCAT)
