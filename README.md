@@ -123,6 +123,7 @@ Importance: it will retrieve the identical data in a rows into group.
    groupby_minmaxavg.sql
 ```
 Importance: allowws to returns the minimum, maximum, and average data.
+   #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-GROUP-BY-with-MIN,-MAX,-and-AVG)
 #### SQL STORED PROCEDURES
 * `SQL STORED PROCEDURES` a prepared SQL code that you can save, so the code can be reused over and over again.
 ```
