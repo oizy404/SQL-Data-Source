@@ -105,7 +105,7 @@
 ![image](https://user-images.githubusercontent.com/71779024/103146415-fadce300-4783-11eb-847d-972a81fa0c6f.png)
 #### Result:
 
-![image](https://user-images.githubusercontent.com/71779024/103164588-5cff1c00-4848-11eb-90f0-e0d61a9f7a7a.png)
+![image](https://user-images.githubusercontent.com/71779024/103146392-67a3ad80-4783-11eb-99ba-74a9601dddcb.png)
 #### SQL GROUP BY with MIN, MAX, and AVG
 #### Table `employees`
 
@@ -115,7 +115,7 @@
 ![image](https://user-images.githubusercontent.com/71779024/103146415-fadce300-4783-11eb-847d-972a81fa0c6f.png)
 #### Result:
 
-![image](https://user-images.githubusercontent.com/71779024/103146392-67a3ad80-4783-11eb-99ba-74a9601dddcb.png)
+![image](https://user-images.githubusercontent.com/71779024/103164588-5cff1c00-4848-11eb-90f0-e0d61a9f7a7a.png)
 #### SQL STORED PROCEDURES
 #### Table `locations`
 
