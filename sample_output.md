@@ -58,6 +58,16 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/103195525-6c9c6480-491d-11eb-868c-f4f3ef9b58f4.png)
+#### SQL correlated subquery with EXISTS operator
+#### Table `employees`
+
+![image](https://user-images.githubusercontent.com/71779024/101287981-af8f7e80-382e-11eb-9a9f-e3cdde768f1f.png)
+#### Table `dependents`
+
+![image](https://user-images.githubusercontent.com/71779024/103209120-3cfd5480-493d-11eb-9c91-0905ed1106c0.png)
+#### Result:
+
+![image](https://user-images.githubusercontent.com/71779024/103208736-623d9300-493c-11eb-8fd2-a52e9739c6a3.png)
 #### SQL CASE
 #### Table `jobs`
 
