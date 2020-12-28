@@ -34,7 +34,7 @@
 #### SQL Correlation Subquery
 #### Table `employees`
 
-![image](https://user-images.githubusercontent.com/71779024/101287726-0005dc80-382d-11eb-9db7-9f8e050d8b0d.png)
+![image](https://user-images.githubusercontent.com/71779024/101287981-af8f7e80-382e-11eb-9a9f-e3cdde768f1f.png)
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/103191350-9e0e3380-490f-11eb-9cba-dffe9c75e762.png)
