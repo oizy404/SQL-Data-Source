@@ -55,21 +55,21 @@ Use the [`hr.sql`](https://github.com/oizy404/SQL-Data-Source/blob/main/hr.sql) 
 ``` 
    union.sql
 ```
-Importance: allows you to retrieve data without duplication. 
+```Importance: allows you to retrieve data without duplication.```
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-UNION)
 #### SQL UNION ALL
 * `SQL UNION ALL` combine the results of two queries together without removing any duplicates.
 ```
   union_all.sql
 ```
-Importance: allows you to retrieve all data with duplication.
+```Importance: allows you to retrieve all data with duplication.```
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-UNION-ALL)
 #### SQL Subquery
 * `SQL Subquery` SQL statement that has another SQL query embedded in the WHERE or the HAVING clause.
 ```
   subquery.sql
 ```
-Importance: used to return data that will be used in the main query as a condition to further restrict the data to be retrieved.
+```Importance: used to return data that will be used in the main query as a condition to further restrict the data to be retrieved.```
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-Subquery)
   
 #### SQL Correlated Subquery
@@ -77,46 +77,46 @@ Importance: used to return data that will be used in the main query as a conditi
 ```
   correlated_subquery.sql
 ```
-Importance: used to return data from the outer query.
+```Importance: used to return data from the outer query.```
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-correlation-subquery)
 #### SQL correlated subquery in the WHERE clause
 ```
    correlatedsubquery_where.sql
 ```
-Importance: used to return data in accordance to WHERE clause.
+```Importance: used to return data in accordance to WHERE clause.```
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-correlated-subquery-in-the-where-clause)
 #### SQL correlated subquery with SELECT clause
 ```
    correlatedsubquery_select.sql
 ```
-Importance: used to return data in accordance to SELECT clause.
+```Importance: used to return data in accordance to SELECT clause.```
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-correlated-subquery-with-select-clause)
 #### SQL correlated subquery with EXISTS operator
 ```
    correlatedsubquery_select.sql
 ```
-Importance: used to return data in accordance to EXISTS operator.
+```Importance: used to return data in accordance to EXISTS operator.```
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-correlated-subquery-with-exists-operator)
 #### SQL-CASE
 * `SQL CASE` provide if-then-else type of logic to SQL
 ```
   case.sql
 ```
-Importance: in accordance of meeting the condition, sql case allows you to control the execution of the sql statements.
+```Importance: in accordance of meeting the condition, sql case allows you to control the execution of the sql statements.```
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CASE)
 #### SQL CONCATENATE
 * `SQL CONCATENATE` combines multiple character strings together.
 ```
   contcat.sql
 ```
-Importance: used to combine charactes and strings.
+```Importance: used to combine charactes and strings.```
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CONCATENATE)
 #### SQL CONVERT
 * `SQL CONVERT` converts data from one data type to another.
 ```
   convert.sql
 ```
-Importance: used to change data type to another.
+```Importance: used to change data type to another.```
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-CONVERT)
 
 #### SQL INNER JOIN
@@ -124,7 +124,7 @@ Importance: used to change data type to another.
 ````
    inner_join.sql
 ````
-Importance: used to retrieve data that appears in both tables.
+```Importance: used to retrieve data that appears in both tables.```
    ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-INNER-JOIN)
    
 #### SQL LEFT JOIN
@@ -132,7 +132,7 @@ Importance: used to retrieve data that appears in both tables.
 ````
    left_join.sql
 ````
-Importance: return all the data from the first table regardless if either there is or there is no matching row from the second table.
+```Importance: return all the data from the first table regardless if either there is or there is no matching row from the second table.```
    ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-LEFT-JOIN)
    
 #### SQL RIGHT JOIN
@@ -140,7 +140,7 @@ Importance: return all the data from the first table regardless if either there 
 ````
    right_join.sql
 ````
-Importance: return all the data from the first table regardless if either there is or there is no matching row from the second table.
+```Importance: return all the data from the first table regardless if either there is or there is no matching row from the second table.```
    ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-RIGHT-JOIN)
    
 #### SQL TRIGGER
@@ -148,7 +148,7 @@ Importance: return all the data from the first table regardless if either there 
 ```
    trigger.sql
 ```
-Importance: Used to maintain the integrity of the data.
+```Importance: Used to maintain the integrity of the data.```
    ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-TRIGGER)
    Ps: try to execute `INSERT` after executing the above code to ensure if the trigger is really working
 
@@ -157,38 +157,38 @@ Importance: Used to maintain the integrity of the data.
 ```
    group_by.sql
 ```
-Importance: it will retrieve the identical data in a rows into group. 
+```Importance: it will retrieve the identical data in a rows into group.```
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-GROUP-BY)
    
 #### SQL GROUP BY with MIN, MAX, and AVG
 ```
    groupby_minmaxavg.sql
 ```
-Importance: allowws to returns the minimum, maximum, and average data.
+```Importance: allowws to returns the minimum, maximum, and average data.```
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-group-by-with-min-max-and-avg)
 #### SQL GROUP BY with HAVING
 ```
    groupby_having.sql
 ```
-Importance: allowws to returns data in accordance to the having condition.
+```Importance: allowws to returns data in accordance to the having condition.```
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-group-by-with-having)
 #### SQL STORED PROCEDURES
 * `SQL STORED PROCEDURES` a prepared SQL code that you can save, so the code can be reused over and over again.
 ```
    stored_procedures.sql
 ```
-Importance: allows us to create SQL queries to be stored and executed on the server and reused it again.
+```Importance: allows us to create SQL queries to be stored and executed on the server and reused it again.```
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-stored-procedures)
 #### SQL STORED PROCEDURES with CONCAT
 ```
    stored_procedures_concat.sql
 ```
-Importance: allows us to create SQL queries to be stored and executed on the server and reused it again and returns the concatination data of specific columns.
+```Importance: allows us to create SQL queries to be stored and executed on the server and reused it again and returns the concatination data of specific columns.```
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-stored-procedures-with-concat)
 #### SQL RANKING FUNCTIONS
 * `SQL RANKING FUNCTIONS` is a window function that assigns a rank to each row within a partition of a result set.
 ```
    rank_func.SQL
 ```
-Importance: helpS to perform calculations across a set of rows without the need to repeat calls to the database.
+```Importance: helpS to perform calculations across a set of rows without the need to repeat calls to the database.```
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-ranking-functions)
