@@ -1,4 +1,5 @@
 ### SQL-QUERIES
+![image](https://user-images.githubusercontent.com/71779024/103195525-6c9c6480-491d-11eb-868c-f4f3ef9b58f4.png)
 
 #### SQL UNION
 #### Table `regions`
