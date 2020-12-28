@@ -51,8 +51,8 @@ Use the [`hr.sql`](https://github.com/oizy404/SQL-Data-Source/blob/main/hr.sql) 
 
 #### SQL UNION
 * `SQL UNION` combine the results of two queries together while removing duplicates.
-   <p> [union.sql](https://github.com/oizy404/SQL-Data-Source/blob/main/union.sql) </p>
-Importance: allows you to retrieve data without duplication. 
+   <br> [union.sql](https://github.com/oizy404/SQL-Data-Source/blob/main/union.sql) <br>
+<b>Importance:</b> allows you to retrieve data without duplication. 
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-UNION)
 #### SQL UNION ALL
 * `SQL UNION ALL` combine the results of two queries together without removing any duplicates.
