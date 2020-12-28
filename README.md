@@ -22,6 +22,7 @@
     * [SQL TRIGGER](https://github.com/oizy404/SQL-Data-Source#SQL-TRIGGER)
     * [SQL GROUP BY](https://github.com/oizy404/SQL-Data-Source#SQL-GROUP-BY)
       * [SQL GROUP BY with MIN, MAX, and AVG](https://github.com/oizy404/SQL-Data-Source#sql-group-by-with-min-max-and-avg)
+      * [SQL GROUP BY with HAVING](https://github.com/oizy404/SQL-Data-Source/blob/main/README.md#sql-group-by-with-having)
     * [SQL STORED PROCEDURES](https://github.com/oizy404/SQL-Data-Source#SQL-STORED-PROCEDURES)
       * [SQL STORED PROCEDURES with CONCAT](https://github.com/oizy404/SQL-Data-Source#SQL-STORED-PROCEDURES-with-CONCAT)
     * [SQL RANKING FUNCTIONS](https://github.com/oizy404/SQL-Data-Source/blob/main/README.md#sql-ranking-functions)
