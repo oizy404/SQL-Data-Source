@@ -31,6 +31,13 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/101287661-95ed3780-382c-11eb-9622-f9e9cc6f1a13.png)
+#### SQL Correlation Subquery
+#### Table `employees`
+
+![image](https://user-images.githubusercontent.com/71779024/101287726-0005dc80-382d-11eb-9db7-9f8e050d8b0d.png)
+#### Result:
+
+![image](https://user-images.githubusercontent.com/71779024/103191350-9e0e3380-490f-11eb-9cba-dffe9c75e762.png)
 #### SQL CASE
 #### Table `jobs`
 
