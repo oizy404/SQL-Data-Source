@@ -1,6 +1,6 @@
-### SQL-QUERIES
+# SQL-QUERIES
 
-#### SQL UNION
+## SQL UNION
 #### Table `regions`
 
 ![image](https://user-images.githubusercontent.com/71779024/101287167-933d1300-3829-11eb-9db8-c014ab7afc9b.png)
@@ -10,7 +10,7 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/101287285-4dcd1580-382a-11eb-8e11-bc28bbcc6cbe.png)
-#### SQL UNION ALL
+## SQL UNION ALL
 #### Table `regions`
 
 ![image](https://user-images.githubusercontent.com/71779024/101287167-933d1300-3829-11eb-9db8-c014ab7afc9b.png)
@@ -21,7 +21,7 @@
 
 ![image](https://user-images.githubusercontent.com/71779024/101287318-88cf4900-382a-11eb-87fd-04f82826f100.png)
 
-#### SQL Subquery
+## SQL Subquery
 #### Table `employees`
 
 ![image](https://user-images.githubusercontent.com/71779024/101287726-0005dc80-382d-11eb-9db7-9f8e050d8b0d.png)
@@ -31,14 +31,14 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/101287661-95ed3780-382c-11eb-9622-f9e9cc6f1a13.png)
-#### SQL Correlation Subquery
+## SQL Correlation Subquery
 #### Table `employees`
 
 ![image](https://user-images.githubusercontent.com/71779024/101287981-af8f7e80-382e-11eb-9a9f-e3cdde768f1f.png)
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/103191350-9e0e3380-490f-11eb-9cba-dffe9c75e762.png)
-#### SQL correlated subquery in the WHERE clause
+## SQL correlated subquery in the WHERE clause
 #### Table `employees`
 
 ![image](https://user-images.githubusercontent.com/71779024/101287981-af8f7e80-382e-11eb-9a9f-e3cdde768f1f.png)
@@ -48,7 +48,7 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/103193032-f5170700-4915-11eb-9afc-a2fd38114ad7.png)
-#### SQL correlated subquery with SELECT clause
+## SQL correlated subquery with SELECT clause
 #### Table `employees`
 
 ![image](https://user-images.githubusercontent.com/71779024/101287981-af8f7e80-382e-11eb-9a9f-e3cdde768f1f.png)
@@ -58,7 +58,7 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/103195525-6c9c6480-491d-11eb-868c-f4f3ef9b58f4.png)
-#### SQL correlated subquery with EXISTS operator
+## SQL correlated subquery with EXISTS operator
 #### Table `employees`
 
 ![image](https://user-images.githubusercontent.com/71779024/101287981-af8f7e80-382e-11eb-9a9f-e3cdde768f1f.png)
@@ -68,7 +68,7 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/103208736-623d9300-493c-11eb-8fd2-a52e9739c6a3.png)
-#### SQL CASE
+## SQL CASE
 #### Table `jobs`
 
 ![image](https://user-images.githubusercontent.com/71779024/101287924-460f7000-382e-11eb-97e1-9e8172e40f55.png)
@@ -81,21 +81,21 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/101287995-c635d580-382e-11eb-85c8-7d9d1a68e791.png)
-#### SQL CONCATENATE
+## SQL CONCATENATE
 #### Table `locations`
 
 ![image](https://user-images.githubusercontent.com/71779024/101288092-96d39880-382f-11eb-95f3-58212b0602f5.png)
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/101288081-7f94ab00-382f-11eb-8faf-8e290c7f59e9.png)
-#### SQL CONVERT
+## SQL CONVERT
 #### Table `locations`
 
 ![image](https://user-images.githubusercontent.com/71779024/101288146-eade7d00-382f-11eb-8cf8-965f4e2f6a6a.png)
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/101288219-54f72200-3830-11eb-8baf-71c31f6098e7.png)
-#### SQL INNER JOIN
+## SQL INNER JOIN
 #### Table `countries`
 
 ![image](https://user-images.githubusercontent.com/71779024/102013596-2e833a80-3d8c-11eb-8e8e-39184dd80749.png)
@@ -106,7 +106,7 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/102013547-dea47380-3d8b-11eb-8ffe-d47728320f04.png)
-#### SQL LEFT JOIN
+## SQL LEFT JOIN
 #### Table `countries`
 
 ![image](https://user-images.githubusercontent.com/71779024/102013596-2e833a80-3d8c-11eb-8e8e-39184dd80749.png)
@@ -116,7 +116,7 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/102013537-cb91a380-3d8b-11eb-8852-ce4f1c45ebd1.png)
-#### SQL RIGHT JOIN
+## SQL RIGHT JOIN
 #### Table `countries`
 
 ![image](https://user-images.githubusercontent.com/71779024/102013596-2e833a80-3d8c-11eb-8e8e-39184dd80749.png)
@@ -126,14 +126,14 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/102077578-81b8c400-3e44-11eb-9f0e-9e0ff009970b.png)
-#### SQL TRIGGER
+## SQL TRIGGER
 #### Table `locations`
 
 ![image](https://user-images.githubusercontent.com/71779024/103013407-0e1b6300-4578-11eb-99be-02288107e4c8.png)
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/103013622-70746380-4578-11eb-9f26-fb24f0f81dd7.png)
-#### SQL GROUP BY
+## SQL GROUP BY
 #### Table `employees`
 
 ![image](https://user-images.githubusercontent.com/71779024/101287981-af8f7e80-382e-11eb-9a9f-e3cdde768f1f.png)
@@ -143,7 +143,7 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/103146392-67a3ad80-4783-11eb-99ba-74a9601dddcb.png)
-#### SQL GROUP BY with MIN, MAX, and AVG
+## SQL GROUP BY with MIN, MAX, and AVG
 #### Table `employees`
 
 ![image](https://user-images.githubusercontent.com/71779024/101287981-af8f7e80-382e-11eb-9a9f-e3cdde768f1f.png)
@@ -153,21 +153,21 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/103164588-5cff1c00-4848-11eb-90f0-e0d61a9f7a7a.png)
-#### SQL STORED PROCEDURES
+## SQL STORED PROCEDURES
 #### Table `employees`
 
 ![image](https://user-images.githubusercontent.com/71779024/101287981-af8f7e80-382e-11eb-9a9f-e3cdde768f1f.png)
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/103164962-bec18500-484c-11eb-8bfc-fb1c80d8b929.png)
-#### SQL STORED PROCEDURES with CONCAT
+## SQL STORED PROCEDURES with CONCAT
 #### Table `locations`
 
 ![image](https://user-images.githubusercontent.com/71779024/103013407-0e1b6300-4578-11eb-99be-02288107e4c8.png)
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/103153818-41572f80-47ce-11eb-9ef8-69707c79e075.png)
-#### SQL RANKING FUNCTIONS
+## SQL RANKING FUNCTIONS
 #### Table `employees`
 
 ![image](https://user-images.githubusercontent.com/71779024/101287981-af8f7e80-382e-11eb-9a9f-e3cdde768f1f.png)
