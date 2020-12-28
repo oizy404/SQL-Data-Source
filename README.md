@@ -81,6 +81,11 @@ Importance: used to return data from the outer query.
    correlatedsubquery_where.sql
 ```
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-correlated-subquery-in-the-where-clause)
+#### SQL correlated subquery in the SELECT clause
+```
+   correlatedsubquery_select.sql
+```
+   #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-correlated-subquery-in-the-select-clause)
 #### SQL-CASE
 * `SQL CASE` provide if-then-else type of logic to SQL
 ```
