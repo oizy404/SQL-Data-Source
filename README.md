@@ -51,8 +51,10 @@ Use the [`hr.sql`](https://github.com/oizy404/SQL-Data-Source/blob/main/hr.sql) 
 
 #### SQL UNION
 * `SQL UNION` combine the results of two queries together while removing duplicates.
-   <br> [union.sql](https://github.com/oizy404/SQL-Data-Source/blob/main/union.sql) <br>
-<b>Importance:</b> allows you to retrieve data without duplication. 
+``` 
+   union.sql
+```
+Importance: allows you to retrieve data without duplication. 
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-UNION)
 #### SQL UNION ALL
 * `SQL UNION ALL` combine the results of two queries together without removing any duplicates.
@@ -159,6 +161,12 @@ Importance: it will retrieve the identical data in a rows into group.
    groupby_minmaxavg.sql
 ```
 Importance: allowws to returns the minimum, maximum, and average data.
+   #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-group-by-with-min-max-and-avg)
+#### SQL GROUP BY with MIN, MAX, and AVG
+```
+   groupby_having.sql
+```
+Importance: allowws to returns data in accordance to the having condition.
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-group-by-with-min-max-and-avg)
 #### SQL STORED PROCEDURES
 * `SQL STORED PROCEDURES` a prepared SQL code that you can save, so the code can be reused over and over again.
