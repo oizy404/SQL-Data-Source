@@ -11,6 +11,8 @@
     * [SQL Subquery](https://github.com/oizy404/SQL-Data-Source#SQL-Subquery)
     * [SQL Correlated Subquery](https://github.com/oizy404/SQL-Data-Source/blob/main/README.md#sql-correlated-subquery)
       * [SQL correlated subquery in the WHERE clause](https://github.com/oizy404/SQL-Data-Source/blob/main/README.md#sql-correlated-subquery-in-the-where-clause)
+      * [SQL correlated subquery with SELECT clause](https://github.com/oizy404/SQL-Data-Source/blob/main/README.md#sql-correlated-subquery-with-select-clause)
+      * [SQL correlated subquery with EXISTS operator](https://github.com/oizy404/SQL-Data-Source/blob/main/README.md#sql-correlated-subquery-with-exists-operator)
     * [SQL CASE](https://github.com/oizy404/SQL-Data-Source#SQL-CASE)
     * [SQL CONCATENATE](https://github.com/oizy404/SQL-Data-Source#SQL-CONCATENATE)
     * [SQL CONVERT](https://github.com/oizy404/SQL-Data-Source#SQL-CONVERT)
@@ -48,11 +50,11 @@ Use the [`hr.sql`](https://github.com/oizy404/SQL-Data-Source/blob/main/hr.sql) 
 ### SQL QUERIES
 
 #### SQL UNION
-* `SQL UNION` combine the results of two queries together while removing duplicates.
 ```
-  union.sql
+   SQL UNION-combine the results of two queries together while removing duplicates.
+   Importance: allows you to retrieve data without duplication. 
 ```
-Importance: allows you to retrieve data without duplication. 
+[union.sql](https://github.com/oizy404/SQL-Data-Source/blob/main/union.sql)
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-UNION)
 #### SQL UNION ALL
 * `SQL UNION ALL` combine the results of two queries together without removing any duplicates.
