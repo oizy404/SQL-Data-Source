@@ -75,7 +75,7 @@ Importance: used to return data that will be used in the main query as a conditi
   correlated_subquery.sql
 ```
 Importance: used to return data from the outer query.
-  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-Correlated-Subquery)
+  ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-correlation-subquery)
 #### SQL correlated subquery in the WHERE clause
 ```
    correlatedsubquery_where.sql
