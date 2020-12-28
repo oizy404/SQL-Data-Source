@@ -86,6 +86,11 @@ Importance: used to return data from the outer query.
    correlatedsubquery_select.sql
 ```
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-correlated-subquery-with-select-clause)
+#### SQL correlated subquery with EXISTS operator
+```
+   correlatedsubquery_select.sql
+```
+   #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-correlated-subquery-with-exists-operator)
 #### SQL-CASE
 * `SQL CASE` provide if-then-else type of logic to SQL
 ```
