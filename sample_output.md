@@ -38,6 +38,16 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/103191350-9e0e3380-490f-11eb-9cba-dffe9c75e762.png)
+#### SQL correlated subquery in the WHERE clause
+#### Table `employees`
+
+![image](https://user-images.githubusercontent.com/71779024/101287981-af8f7e80-382e-11eb-9a9f-e3cdde768f1f.png)
+#### Table `departments`
+
+![image](https://user-images.githubusercontent.com/71779024/103146415-fadce300-4783-11eb-847d-972a81fa0c6f.png)
+#### Result:
+
+![image](https://user-images.githubusercontent.com/71779024/103193032-f5170700-4915-11eb-9afc-a2fd38114ad7.png)
 #### SQL CASE
 #### Table `jobs`
 
