@@ -5,7 +5,7 @@
 2. [The Database Tables](https://github.com/oizy404/SQL-Data-Source#The-Database-Tables)
 3. [HR Database Dependency Diagram](https://github.com/oizy404/SQL-Data-Source#HR-Database-Dependency-Diagram)
 4. [Installation](https://github.com/oizy404/SQL-Data-Source#Installation)
-5. [SQL QUERIES](https://github.com/oizy404/SQL-Data-Source#SQL-QUERIES)
+5.  [SQL QUERIES](https://github.com/oizy404/SQL-Data-Source#SQL-QUERIES)
     * [SQL UNION](https://github.com/oizy404/SQL-Data-Source#SQL-UNION)
     * [SQL UNION ALL](https://github.com/oizy404/SQL-Data-Source#SQL-UNION-ALL)
     * [SQL Subquery](https://github.com/oizy404/SQL-Data-Source#SQL-Subquery)
