@@ -27,7 +27,7 @@
       * [SQL STORED PROCEDURES with CONCAT](https://github.com/oizy404/SQL-Data-Source#SQL-STORED-PROCEDURES-with-CONCAT)
     * [SQL RANKING FUNCTIONS](https://github.com/oizy404/SQL-Data-Source/blob/main/README.md#sql-ranking-functions)
 ## SQL Sample Database
-This SQL Sample Database called HR that manages the HR data of the small businesses. HR database has seven (7) tables; employees table, dependents table, departments, jobs, locations, countries and regions. These tables stores various data of HR. The database used was the SQL Tutorial sample database which can be found on this [website](https://www.sqltutorial.org/). 
+This SQL Sample Database called HR that manages the HR data of the small businesses. HR database has seven (7) tables; employees table, dependents table, departments, jobs, locations, countries and regions. These tables stores various data of HR. The database used was the SQL Tutorial sample database which can be found on this [website](https://www.sqltutorial.org/sql-sample-database/). 
 * The following database diagram illustrates the HR sample database:
 ![image](https://user-images.githubusercontent.com/71779024/101023116-451bdb80-35ad-11eb-9ebb-369063785a88.png)
 ### The Database Tables
@@ -43,7 +43,7 @@ The HR sample database consists of the following tables:
 The diagram below shows the Functional Dependency Diagram(FDD) of HR Database:
 ![FDD-01](https://user-images.githubusercontent.com/71779024/102885406-45ade080-448e-11eb-97ff-b2b74267e785.png)
 ### Installation
-In creating the sample database step by step you can download [here](https://www.sqltutorial.org/).
+In creating the sample database step by step you can download [here](https://www.sqltutorial.org/sql-sample-database/).
 
 OR
 
