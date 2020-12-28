@@ -143,6 +143,13 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/103146392-67a3ad80-4783-11eb-99ba-74a9601dddcb.png)
+## SQL GROUP BY with HAVING
+#### Table `departments`
+
+![image](https://user-images.githubusercontent.com/71779024/103146415-fadce300-4783-11eb-847d-972a81fa0c6f.png)
+#### Result:
+
+![image](https://user-images.githubusercontent.com/71779024/103211309-cc593680-4942-11eb-895b-e186367263b3.png)
 ## SQL GROUP BY with MIN, MAX, and AVG
 #### Table `employees`
 
