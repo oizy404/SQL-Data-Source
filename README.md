@@ -10,6 +10,7 @@
     * [SQL UNION ALL](https://github.com/oizy404/SQL-Data-Source#SQL-UNION-ALL)
     * [SQL Subquery](https://github.com/oizy404/SQL-Data-Source#SQL-Subquery)
     * [SQL Correlated Subquery](https://github.com/oizy404/SQL-Data-Source#SQL-Correlated-Subquery)
+      * [SQL correlated subquery in the WHERE clause]()
     * [SQL CASE](https://github.com/oizy404/SQL-Data-Source#SQL-CASE)
     * [SQL CONCATENATE](https://github.com/oizy404/SQL-Data-Source#SQL-CONCATENATE)
     * [SQL CONVERT](https://github.com/oizy404/SQL-Data-Source#SQL-CONVERT)
@@ -75,6 +76,9 @@ Importance: used to return data that will be used in the main query as a conditi
 ```
 Importance: used to return data from the outer query.
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-Correlated-Subquery)
+#### SQL correlated subquery in the WHERE clause
+
+
 #### SQL-CASE
 * `SQL CASE` provide if-then-else type of logic to SQL
 ```
