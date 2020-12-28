@@ -83,16 +83,19 @@ Importance: used to return data from the outer query.
 ```
    correlatedsubquery_where.sql
 ```
+Importance: used to return data in accordance to WHERE clause.
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-correlated-subquery-in-the-where-clause)
 #### SQL correlated subquery with SELECT clause
 ```
    correlatedsubquery_select.sql
 ```
+Importance: used to return data in accordance to SELECT clause.
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-correlated-subquery-with-select-clause)
 #### SQL correlated subquery with EXISTS operator
 ```
    correlatedsubquery_select.sql
 ```
+Importance: used to return data in accordance to EXISTS operator.
    #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-correlated-subquery-with-exists-operator)
 #### SQL-CASE
 * `SQL CASE` provide if-then-else type of logic to SQL
