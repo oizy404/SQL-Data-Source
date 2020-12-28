@@ -77,8 +77,10 @@ Importance: used to return data that will be used in the main query as a conditi
 Importance: used to return data from the outer query.
   ##### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#SQL-Correlated-Subquery)
 #### SQL correlated subquery in the WHERE clause
-
-
+```
+   correlatedsubquery_where.sql
+```
+   #### See the sample output [here](https://github.com/oizy404/SQL-Data-Source/blob/main/sample_output.md#sql-correlated-subquery-in-the-where-clause)
 #### SQL-CASE
 * `SQL CASE` provide if-then-else type of logic to SQL
 ```
