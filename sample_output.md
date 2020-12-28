@@ -1,5 +1,4 @@
 ### SQL-QUERIES
-![image](https://user-images.githubusercontent.com/71779024/103195525-6c9c6480-491d-11eb-868c-f4f3ef9b58f4.png)
 
 #### SQL UNION
 #### Table `regions`
@@ -49,6 +48,16 @@
 #### Result:
 
 ![image](https://user-images.githubusercontent.com/71779024/103193032-f5170700-4915-11eb-9afc-a2fd38114ad7.png)
+#### SQL correlated subquery with SELECT clause
+#### Table `employees`
+
+![image](https://user-images.githubusercontent.com/71779024/101287981-af8f7e80-382e-11eb-9a9f-e3cdde768f1f.png)
+#### Table `departments`
+
+![image](https://user-images.githubusercontent.com/71779024/103146415-fadce300-4783-11eb-847d-972a81fa0c6f.png)
+#### Result:
+
+![image](https://user-images.githubusercontent.com/71779024/103195525-6c9c6480-491d-11eb-868c-f4f3ef9b58f4.png)
 #### SQL CASE
 #### Table `jobs`
 
